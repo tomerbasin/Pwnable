@@ -2,4 +2,4 @@
 
 All my pwnable flags, and explaining (Of some)
 
-Wiki: https://gitlab.com/pwnable/pwnable/-/wikis/home
+Wiki: https://github.com/tomerbasin/Pwnable/wiki
